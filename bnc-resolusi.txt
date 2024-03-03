@@ -5,3 +5,4 @@ BNC Resolusi
 
 Planning BNC
 1. Belajar GIT/GITHUB DI Channel WPU
+2. Belajar Studi Kasus di Channel Tutor Komputer
