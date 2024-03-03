@@ -1,7 +1,6 @@
 BNC Resolusi
-1. Konsisten Belajar Pemprograman Laravel Senin - Kamis
-2. Libur Dan Beristirahat Pada Hari Jumat
-3. Lanjut Belajar Javascript Sabtu Minggu
+1. Konsisten Belajar Pemprograman Laravel Senin - Jumat
+2. Lanjut Belajar Javascript Sabtu Minggu
 
 Planning BNC
 1. Belajar GIT/GITHUB DI Channel WPU
